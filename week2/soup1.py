@@ -6,6 +6,7 @@
 # 3. Attributes:标签的属性
 # 4. NavigableString:标签内非属性字符串
 # 5. Comment:标签内字符串的注释部分
+# 如何获取
 from bs4 import BeautifulSoup
 
 newsoup = BeautifulSoup("<b><!--This is a comment--></b><p>This is not a comment</p>", "html.parser")
