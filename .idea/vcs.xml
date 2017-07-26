@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="D:/modifycode/flask" vcs="Git" />
+    <mapping directory="D:/modifycode/maya" vcs="Git" />
+    <mapping directory="D:/modifycode/shadowsocks/Previous-shadowsocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../md5deep" vcs="Git" />
   </component>
 </project>
