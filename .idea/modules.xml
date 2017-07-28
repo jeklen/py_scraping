@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blackhat_python/.idea/blackhat_python.iml" filepath="$PROJECT_DIR$/../blackhat_python/.idea/blackhat_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../clrs/.idea/clrs.iml" filepath="$PROJECT_DIR$/../clrs/.idea/clrs.iml" />
+      <module fileurl="file://D:/modifycode/flask/.idea/flask.iml" filepath="D:/modifycode/flask/.idea/flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../md5deep/.idea/md5deep.iml" filepath="$PROJECT_DIR$/../md5deep/.idea/md5deep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_scraping.iml" filepath="$PROJECT_DIR$/.idea/py_scraping.iml" />
+      <module fileurl="file://D:/modifycode/shadowsocks/shadowsocks-2.9.1/.idea/shadowsocks-2.9.1.iml" filepath="D:/modifycode/shadowsocks/shadowsocks-2.9.1/.idea/shadowsocks-2.9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smalltools/.idea/smalltools.iml" filepath="$PROJECT_DIR$/../smalltools/.idea/smalltools.iml" />
+    </modules>
+  </component>
+</project>
