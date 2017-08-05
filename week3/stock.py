@@ -29,7 +29,7 @@ def getStockList(lst, stockURL):
             continue
 
 def getStockInfo(lst, stockURL, fpath):
-    # eg.https://gupiao.baidu.com/stock/sh601766.html
+    # example.https://gupiao.baidu.com/stock/sh601766.html
     for stock in lst:
         url = stockURL + stock + ".html"
         html = getHTMLText(url)
