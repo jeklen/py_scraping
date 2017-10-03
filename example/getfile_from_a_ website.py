@@ -83,7 +83,7 @@ def saveTxt(loc):
         return ""
 
 if __name__ == '__main__':
-    url = "https://crypto.stanford.edu/cs142/lectures/"
+    url = "http://www.cs.princeton.edu/~wayne/kleinberg-tardos/"
     #url = 'http://ipads.se.sjtu.edu.cn/courses/ics/'
     root = './/download//'
     if not os.path.exists(root+'pdf'):
